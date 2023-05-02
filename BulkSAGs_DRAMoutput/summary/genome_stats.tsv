@@ -1,0 +1,11 @@
+genome	number of scaffolds	5S rRNA	16S rRNA	23S rRNA	tRNA count
+AM-388-A01_contigs	60				17
+AM-388-A10_contigs	40	AM-388-A10_contigs_AM-388-A10_NODE_2 (10612, 10723)	AM-388-A10_contigs_AM-388-A10_NODE_16 (3382, 4846)	AM-388-A10_contigs_AM-388-A10_NODE_16 (248, 3218)	8
+AM-388-A11_contigs	47	AM-388-A11_contigs_AM-388-A11_NODE_40 (1144, 1248)	AM-388-A11_contigs_AM-388-A11_NODE_6 (10505, 12121)	AM-388-A11_contigs_AM-388-A11_NODE_40 (1520, 2647)	19
+AM-388-A15_contigs	56	AM-388-A15_contigs_AM-388-A15_NODE_12 (1147, 1222)		AM-388-A15_contigs_AM-388-A15_NODE_12 (91, 995)	22
+AM-388-A17_contigs	214				22
+AM-388-A20_contigs	94				5
+AM-388-B03_contigs	67				16
+AM-388-B04_contigs	24				19
+AM-388-B05_contigs	148				9
+AM-388-B10_contigs	33				6

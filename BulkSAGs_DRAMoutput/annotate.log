@@ -1,0 +1,174 @@
+2023-05-01 14:04:48,179 - The log file is created at /home/jupyter-mlindsay/storage/user_lab/melody/annotations/DRAM/Bulk_DRAM_test6/annotate.log.
+2023-05-01 14:04:48,179 - 10 FASTAs found
+2023-05-01 14:04:48,184 - Starting the Annotation of Bins with database configuration: 
+ 
+
+KOfam db:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 04/30/2023, 18:50:40
+    Origin: Downloaded by DRAM
+KOfam KO list:
+    Citation: T. Aramaki, R. Blanc-Mathieu, H. Endo, K. Ohkubo, M. Kanehisa, S. Goto, and H. Ogata, "Kofamkoala: Kegg ortholog assignment based on profile hmm and adaptive score threshold," Bioinformatics, vol. 36, no. 7, pp. 2251–2252, 2020.
+    Download Time: 04/30/2023, 18:50:43
+    Origin: Downloaded by DRAM
+Pfam db:
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 04/30/2023, 19:02:22
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 04/30/2023, 19:42:14
+dbCAN db:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Download Time: 04/30/2023, 19:02:24
+    Origin: Downloaded by DRAM
+    Description_Db_Updated: 04/30/2023, 19:42:14
+MEROPS peptidase db:
+    Description_Db_Updated: 04/30/2023, 19:42:13
+    Citation: N. D. Rawlings, A. J. Barrett, P. D. Thomas, X. Huang, A. Bateman, and R. D. Finn, "The merops database of proteolytic enzymes, their substrates and inhibitors in 2017 and a comparison with peptidases in the panther database," Nucleic acids research, vol. 46, no. D1, pp. D624–D632, 2018.
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+
+Pfam hmm dat:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Mistry, S. Chuguransky, L. Williams, M. Qureshi, G. A. Salazar, E. L. Sonnhammer, S. C. Tosatto, L. Paladin, S. Raj, L. J. Richardson et al., "Pfam: The protein families database in 2021," Nucleic acids research, vol. 49, no. D1, pp. D412–D419, 2021.
+    Download Time: 04/30/2023, 19:02:23
+    Origin: Downloaded by DRAM
+dbCAN family activities:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 04/30/2023, 19:02:25
+    Origin: Downloaded by DRAM
+dbCAN subfamily EC numbers:
+    Citation: Y. Yin, X. Mao, J. Yang, X. Chen, F. Mao, and Y. Xu, "dbcan: a web resource for automated carbohydrate-active enzyme annotation," Nucleic acids research, vol. 40, no. W1, pp. W445–W451, 2012.
+    Version: 11
+    Upload_Date: 08062022
+    Download Time: 04/30/2023, 19:02:25
+    Origin: Downloaded by DRAM
+VOG annotations:
+    Description_Db_Updated: Unknown, or Never
+    Citation: J. Thannesberger, H.-J. Hellinger, I. Klymiuk, M.-T. Kastner, F. J. Rieder, M. Schneider, S. Fister, T. Lion, K. Kosulin, J. Laengle et al., "Viruses comprise an extensive pool of mobile genetic elements in eukaryote cell cultures and human clinical samples," The FASEB Journal, vol. 31, no. 5, pp. 1987–2000, 2017.
+    Version: latest
+    Download Time: 04/30/2023, 19:03:08
+    Origin: Downloaded by DRAM
+
+Genome summary form:
+    Branch: master
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+Module step form:
+    Branch: master
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+ETC module database:
+    Branch: master
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+Function heatmap form:
+    Branch: master
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+AMG database:
+    Branch: master
+    Download Time: 04/30/2023, 19:05:41
+    Origin: Downloaded by DRAM
+2023-05-01 14:04:48,185 - Retrieved database locations and descriptions
+2023-05-01 14:04:48,185 - Annotating AM-388-A17_contigs
+2023-05-01 14:05:03,209 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:05:05,260 - Getting hits from kofam
+2023-05-01 14:14:03,840 - Getting forward best hits from peptidase
+2023-05-01 14:14:14,347 - Getting reverse best hits from peptidase
+2023-05-01 14:14:14,940 - Getting descriptions of hits from peptidase
+2023-05-01 14:14:14,951 - Getting hits from pfam
+2023-05-01 14:14:25,931 - Getting hits from dbCAN
+2023-05-01 14:14:31,935 - Merging ORF annotations
+2023-05-01 14:14:42,709 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:14:45,076 - Annotating AM-388-A20_contigs
+2023-05-01 14:14:49,998 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:14:52,011 - Getting hits from kofam
+2023-05-01 14:21:41,034 - Getting forward best hits from peptidase
+2023-05-01 14:21:45,166 - Getting reverse best hits from peptidase
+2023-05-01 14:21:45,714 - Getting descriptions of hits from peptidase
+2023-05-01 14:21:45,719 - Getting hits from pfam
+2023-05-01 14:21:54,115 - Getting hits from dbCAN
+2023-05-01 14:21:58,374 - Merging ORF annotations
+2023-05-01 14:22:02,583 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:22:03,150 - Annotating AM-388-A15_contigs
+2023-05-01 14:22:04,731 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:22:06,710 - Getting hits from kofam
+2023-05-01 14:25:25,266 - Getting forward best hits from peptidase
+2023-05-01 14:25:27,697 - Getting reverse best hits from peptidase
+2023-05-01 14:25:28,224 - Getting descriptions of hits from peptidase
+2023-05-01 14:25:28,228 - Getting hits from pfam
+2023-05-01 14:25:35,988 - Getting hits from dbCAN
+2023-05-01 14:25:38,592 - Merging ORF annotations
+2023-05-01 14:25:41,996 - Annotating AM-388-A11_contigs
+2023-05-01 14:25:43,086 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:25:45,076 - Getting hits from kofam
+2023-05-01 14:28:03,552 - Getting forward best hits from peptidase
+2023-05-01 14:28:05,170 - Getting reverse best hits from peptidase
+2023-05-01 14:28:05,684 - Getting descriptions of hits from peptidase
+2023-05-01 14:28:05,688 - Getting hits from pfam
+2023-05-01 14:28:13,073 - Getting hits from dbCAN
+2023-05-01 14:28:14,785 - Merging ORF annotations
+2023-05-01 14:28:18,177 - Annotating AM-388-B04_contigs
+2023-05-01 14:28:23,366 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:28:25,369 - Getting hits from kofam
+2023-05-01 14:33:09,758 - Getting forward best hits from peptidase
+2023-05-01 14:33:13,018 - Getting reverse best hits from peptidase
+2023-05-01 14:33:13,545 - Getting descriptions of hits from peptidase
+2023-05-01 14:33:13,549 - Getting hits from pfam
+2023-05-01 14:33:21,371 - Getting hits from dbCAN
+2023-05-01 14:33:24,327 - Merging ORF annotations
+2023-05-01 14:33:27,135 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:33:27,380 - Annotating AM-388-A10_contigs
+2023-05-01 14:33:28,116 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:33:30,176 - Getting hits from kofam
+2023-05-01 14:36:00,710 - Getting forward best hits from peptidase
+2023-05-01 14:36:02,698 - Getting reverse best hits from peptidase
+2023-05-01 14:36:03,224 - Getting descriptions of hits from peptidase
+2023-05-01 14:36:03,228 - Getting hits from pfam
+2023-05-01 14:36:10,650 - Getting hits from dbCAN
+2023-05-01 14:36:13,265 - Merging ORF annotations
+2023-05-01 14:36:16,032 - Annotating AM-388-A01_contigs
+2023-05-01 14:36:16,962 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:36:18,994 - Getting hits from kofam
+2023-05-01 14:40:04,793 - Getting forward best hits from peptidase
+2023-05-01 14:40:07,393 - Getting reverse best hits from peptidase
+2023-05-01 14:40:07,906 - Getting descriptions of hits from peptidase
+2023-05-01 14:40:07,910 - Getting hits from pfam
+2023-05-01 14:40:16,347 - Getting hits from dbCAN
+2023-05-01 14:40:19,191 - Merging ORF annotations
+2023-05-01 14:40:22,437 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:40:22,743 - Annotating AM-388-B05_contigs
+2023-05-01 14:40:25,604 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:40:27,659 - Getting hits from kofam
+2023-05-01 14:48:24,119 - Getting forward best hits from peptidase
+2023-05-01 14:48:30,410 - Getting reverse best hits from peptidase
+2023-05-01 14:48:31,007 - Getting descriptions of hits from peptidase
+2023-05-01 14:48:31,014 - Getting hits from pfam
+2023-05-01 14:48:39,999 - Getting hits from dbCAN
+2023-05-01 14:48:45,753 - Merging ORF annotations
+2023-05-01 14:48:51,055 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:48:52,056 - Annotating AM-388-B03_contigs
+2023-05-01 14:48:52,919 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:48:54,935 - Getting hits from kofam
+2023-05-01 14:52:12,124 - Getting forward best hits from peptidase
+2023-05-01 14:52:14,448 - Getting reverse best hits from peptidase
+2023-05-01 14:52:14,972 - Getting descriptions of hits from peptidase
+2023-05-01 14:52:14,977 - Getting hits from pfam
+2023-05-01 14:52:22,634 - Getting hits from dbCAN
+2023-05-01 14:52:25,023 - Merging ORF annotations
+2023-05-01 14:52:27,828 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:52:28,153 - Annotating AM-388-B10_contigs
+2023-05-01 14:52:29,237 - Turning genes from prodigal to mmseqs2 db
+2023-05-01 14:52:31,146 - Getting hits from kofam
+2023-05-01 14:55:47,706 - Getting forward best hits from peptidase
+2023-05-01 14:55:50,110 - Getting reverse best hits from peptidase
+2023-05-01 14:55:50,616 - Getting descriptions of hits from peptidase
+2023-05-01 14:55:50,620 - Getting hits from pfam
+2023-05-01 14:55:58,254 - Getting hits from dbCAN
+2023-05-01 14:56:00,534 - Merging ORF annotations
+2023-05-01 14:56:02,735 - No rRNAs were detected, no rrnas.tsv file will be created.
+2023-05-01 14:56:02,966 - Annotations complete, processing annotations
+2023-05-01 14:56:03,108 - Completed annotations

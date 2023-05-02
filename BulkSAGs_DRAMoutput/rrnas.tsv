@@ -1,0 +1,9 @@
+scaffold	fasta	begin	end	strand	type	e-value	note
+AM-388-A15_contigs_AM-388-A15_NODE_12	AM-388-A15_contigs	91	995	+	23S rRNA	8.8e-221	aligned only 28 percent of the 23S ribosomal RNA
+AM-388-A15_contigs_AM-388-A15_NODE_12	AM-388-A15_contigs	1147	1222	+	5S rRNA	1.2e-07	aligned only 63 percent of the 5S ribosomal RNA
+AM-388-A11_contigs_AM-388-A11_NODE_40	AM-388-A11_contigs	1144	1248	-	5S rRNA	4e-11	
+AM-388-A11_contigs_AM-388-A11_NODE_40	AM-388-A11_contigs	1520	2647	-	23S rRNA	1.9e-265	aligned only 34 percent of the 23S ribosomal RNA
+AM-388-A11_contigs_AM-388-A11_NODE_6	AM-388-A11_contigs	10505	12121	-	16S rRNA	0.0	
+AM-388-A10_contigs_AM-388-A10_NODE_16	AM-388-A10_contigs	248	3218	-	23S rRNA	0.0	
+AM-388-A10_contigs_AM-388-A10_NODE_16	AM-388-A10_contigs	3382	4846	-	16S rRNA	1.1e-224	
+AM-388-A10_contigs_AM-388-A10_NODE_2	AM-388-A10_contigs	10612	10723	-	5S rRNA	9.4e-13	
